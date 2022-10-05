@@ -7,9 +7,6 @@ window.title('Calculator')
 window.geometry('387x460+0+0')
 window.resizable(False,False)
 
-img=tk.PhotoImage(file='Icon.png')
-window.iconphoto(False,img)
-
 def one():
 	if entry.get()=='Invalid        ':
 		entry.delete(0,END)
