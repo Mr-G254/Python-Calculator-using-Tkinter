@@ -1,4 +1,4 @@
-# Python-Calcultor
+# Python-Calculator
 
 For graphics user interface I have used tkinter.
 
